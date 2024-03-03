@@ -1,0 +1,14 @@
+/Users/csejrup/Development/repos/casper repos/SecureSoftwareExercises/SecureSoftwareExercises/bin/Debug/net8.0/SecureSoftwareExercises
+/Users/csejrup/Development/repos/casper repos/SecureSoftwareExercises/SecureSoftwareExercises/bin/Debug/net8.0/SecureSoftwareExercises.deps.json
+/Users/csejrup/Development/repos/casper repos/SecureSoftwareExercises/SecureSoftwareExercises/bin/Debug/net8.0/SecureSoftwareExercises.runtimeconfig.json
+/Users/csejrup/Development/repos/casper repos/SecureSoftwareExercises/SecureSoftwareExercises/bin/Debug/net8.0/SecureSoftwareExercises.dll
+/Users/csejrup/Development/repos/casper repos/SecureSoftwareExercises/SecureSoftwareExercises/bin/Debug/net8.0/SecureSoftwareExercises.pdb
+/Users/csejrup/Development/repos/casper repos/SecureSoftwareExercises/SecureSoftwareExercises/obj/Debug/net8.0/SecureSoftwareExercises.GeneratedMSBuildEditorConfig.editorconfig
+/Users/csejrup/Development/repos/casper repos/SecureSoftwareExercises/SecureSoftwareExercises/obj/Debug/net8.0/SecureSoftwareExercises.AssemblyInfoInputs.cache
+/Users/csejrup/Development/repos/casper repos/SecureSoftwareExercises/SecureSoftwareExercises/obj/Debug/net8.0/SecureSoftwareExercises.AssemblyInfo.cs
+/Users/csejrup/Development/repos/casper repos/SecureSoftwareExercises/SecureSoftwareExercises/obj/Debug/net8.0/SecureSoftwareExercises.csproj.CoreCompileInputs.cache
+/Users/csejrup/Development/repos/casper repos/SecureSoftwareExercises/SecureSoftwareExercises/obj/Debug/net8.0/SecureSoftwareExercises.dll
+/Users/csejrup/Development/repos/casper repos/SecureSoftwareExercises/SecureSoftwareExercises/obj/Debug/net8.0/refint/SecureSoftwareExercises.dll
+/Users/csejrup/Development/repos/casper repos/SecureSoftwareExercises/SecureSoftwareExercises/obj/Debug/net8.0/SecureSoftwareExercises.pdb
+/Users/csejrup/Development/repos/casper repos/SecureSoftwareExercises/SecureSoftwareExercises/obj/Debug/net8.0/SecureSoftwareExercises.genruntimeconfig.cache
+/Users/csejrup/Development/repos/casper repos/SecureSoftwareExercises/SecureSoftwareExercises/obj/Debug/net8.0/ref/SecureSoftwareExercises.dll
