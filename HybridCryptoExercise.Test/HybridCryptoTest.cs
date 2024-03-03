@@ -27,8 +27,8 @@ public class HybridCryptoServiceTests
     [Test]
     public void SharedSecretsShouldMatch()
     {
-        byte[] aliceSharedSecret = _service.GenerateSharedSecret(_alice, _bob.PublicKey);
-        byte[] bobSharedSecret = _service.GenerateSharedSecret(_bob, _alice.PublicKey);
+        var aliceSharedSecret = _service.GenerateSharedSecret(_alice, _bob.PublicKey);
+        var bobSharedSecret = _service.GenerateSharedSecret(_bob, _alice.PublicKey);
 
         Assert.That(Convert.ToBase64String(bobSharedSecret), Is.EqualTo(Convert.ToBase64String(aliceSharedSecret)));
     }

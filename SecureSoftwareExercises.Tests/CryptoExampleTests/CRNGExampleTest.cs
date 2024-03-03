@@ -10,10 +10,10 @@ public class CRNGExampleTests
     public void GenerateRandomNumber_ShouldReturnByteArrayOfSpecifiedLength()
     {
         // Arrange
-        int length = 32; // 256 bits
+        const int length = 32; 
 
         // Act
-        byte[] randomNumber = CRNGExample.GenerateRandomNumber(length);
+        var randomNumber = CRNGExample.GenerateRandomNumber(length);
 
         // Assert
         Assert.That(randomNumber, Has.Length.EqualTo(length));

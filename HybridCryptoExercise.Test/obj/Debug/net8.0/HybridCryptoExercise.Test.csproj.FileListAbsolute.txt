@@ -102,3 +102,4 @@
 /Users/csejrup/Development/repos/casper repos/SecureSoftwareExercises/HybridCryptoExercise.Test/obj/Debug/net8.0/HybridCryptoExercise.Test.pdb
 /Users/csejrup/Development/repos/casper repos/SecureSoftwareExercises/HybridCryptoExercise.Test/obj/Debug/net8.0/HybridCryptoExercise.Test.genruntimeconfig.cache
 /Users/csejrup/Development/repos/casper repos/SecureSoftwareExercises/HybridCryptoExercise.Test/obj/Debug/net8.0/ref/HybridCryptoExercise.Test.dll
+/Users/csejrup/Development/repos/casper repos/SecureSoftwareExercises/HybridCryptoExercise.Test/obj/Debug/net8.0/HybridCryptoExercise.Test.sourcelink.json

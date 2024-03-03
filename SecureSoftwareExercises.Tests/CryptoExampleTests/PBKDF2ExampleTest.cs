@@ -27,7 +27,7 @@ public class PBKDF2ExampleTests
     public void DeriveKey_ShouldProduceDifferentKeysForDifferentSalts()
     {
         // Arrange
-        var password = "testPassword";
+        const string password = "testPassword";
         var salt1 = new byte[16]; 
         var salt2 = new byte[16]; 
         salt2[0] = 1; 
@@ -35,8 +35,8 @@ public class PBKDF2ExampleTests
         const int  keyLength = 32;
 
         // Act
-        byte[] derivedKey1 = PBKDF2Example.DeriveKey(password, salt1, iterations, keyLength);
-        byte[] derivedKey2 = PBKDF2Example.DeriveKey(password, salt2, iterations, keyLength);
+        var derivedKey1 = PBKDF2Example.DeriveKey(password, salt1, iterations, keyLength);
+        var derivedKey2 = PBKDF2Example.DeriveKey(password, salt2, iterations, keyLength);
 
         // Assert
         Assert.Multiple(() =>

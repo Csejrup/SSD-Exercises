@@ -24,7 +24,7 @@ public static class HybridCryptoExample
         Console.WriteLine($"Shared secrets match: {secretsMatch}");
 
         // Simulate message exchange using AES-GCM
-        var originalMessage = "Hello, Hybrid Cryptography World!";
+        const string originalMessage = "Hello, Hybrid Cryptography World!";
         var encryptedMessage = service.EncryptWithAesGcm(originalMessage, aliceSharedSecret); // Alice encrypts a message with the shared secret
         var decryptedMessage = service.DecryptWithAesGcm(encryptedMessage, bobSharedSecret); // Bob decrypts the message with the shared secret
 

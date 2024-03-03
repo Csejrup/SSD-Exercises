@@ -102,3 +102,4 @@
 /Users/csejrup/Development/repos/casper repos/SecureSoftwareExercises/SecureSoftwareExercises.Tests/obj/Debug/net8.0/SecureSoftwareExercises.Tests.pdb
 /Users/csejrup/Development/repos/casper repos/SecureSoftwareExercises/SecureSoftwareExercises.Tests/obj/Debug/net8.0/SecureSoftwareExercises.Tests.genruntimeconfig.cache
 /Users/csejrup/Development/repos/casper repos/SecureSoftwareExercises/SecureSoftwareExercises.Tests/obj/Debug/net8.0/ref/SecureSoftwareExercises.Tests.dll
+/Users/csejrup/Development/repos/casper repos/SecureSoftwareExercises/SecureSoftwareExercises.Tests/obj/Debug/net8.0/SecureSoftwareExercises.Tests.sourcelink.json

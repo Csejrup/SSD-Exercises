@@ -10,10 +10,10 @@ public class HashingExampleTests
     public void GenerateSHA512Hash_ShouldReturnHexString()
     {
         // Arrange
-        string input = "Hello, World!";
+        const string input = "Hello, World!";
 
         // Act
-        string hash = HashingExample.GenerateSHA512Hash(input);
+        var hash = HashingExample.GenerateSHA512Hash(input);
 
         // Assert
         Assert.That(hash, Is.Not.Empty);

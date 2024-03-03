@@ -12,3 +12,4 @@
 /Users/csejrup/Development/repos/casper repos/SecureSoftwareExercises/HybridCryptoExercise/obj/Debug/net8.0/HybridCryptoExercise.pdb
 /Users/csejrup/Development/repos/casper repos/SecureSoftwareExercises/HybridCryptoExercise/obj/Debug/net8.0/HybridCryptoExercise.genruntimeconfig.cache
 /Users/csejrup/Development/repos/casper repos/SecureSoftwareExercises/HybridCryptoExercise/obj/Debug/net8.0/ref/HybridCryptoExercise.dll
+/Users/csejrup/Development/repos/casper repos/SecureSoftwareExercises/HybridCryptoExercise/obj/Debug/net8.0/HybridCryptoExercise.sourcelink.json

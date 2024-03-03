@@ -3,7 +3,7 @@ using System.Text;
 
 namespace SecureSoftwareExercises.CryptoExercises;
 
-public class RSAExample
+public abstract class RSAExample
 {
     public static bool EncryptAndDecrypt()
     {

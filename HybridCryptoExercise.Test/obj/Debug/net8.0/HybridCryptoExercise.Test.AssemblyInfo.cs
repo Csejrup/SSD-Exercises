@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("HybridCryptoExercise.Test")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3905b600a6a2f8685f2df846a3e8681928a81ca0")]
 [assembly: System.Reflection.AssemblyProductAttribute("HybridCryptoExercise.Test")]
 [assembly: System.Reflection.AssemblyTitleAttribute("HybridCryptoExercise.Test")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

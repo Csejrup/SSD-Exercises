@@ -15,9 +15,12 @@ public class AesExampleTests
 
         // Act
         var (encryptedMessage, decryptedMessage) = aesExample.EncryptAndDecrypt(originalMessage);
-
+        
         // Assert
-        Assert.That(encryptedMessage, Is.Not.EqualTo(originalMessage));
-        Assert.That(decryptedMessage, Is.EqualTo(originalMessage));
+        Assert.Multiple(() =>
+        {
+            Assert.That(encryptedMessage, Is.Not.EqualTo(originalMessage));
+            Assert.That(decryptedMessage, Is.EqualTo(originalMessage));
+        });
     }
 }

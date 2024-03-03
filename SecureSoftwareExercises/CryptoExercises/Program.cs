@@ -40,7 +40,7 @@ internal abstract class Program
         Console.WriteLine($"Original Data: {inputString}");
         Console.WriteLine($"SHA512 Hash: {hashedData}");
         
-        // PBKDF2EXAMPLE
+        // PBKDF2 EXAMPLE
         Console.WriteLine("------PBKDF2 EXAMPLE-------------");
 
         var password = "p@ssw0rd";
@@ -52,7 +52,7 @@ internal abstract class Program
         Console.WriteLine($"Derived key (hex): {derivedKeyHexString}");
         
         
-        // RSAEXAMPLE
+        // RSA EXAMPLE
         Console.WriteLine("------RSA EXAMPLE-------------");
 
         var rsaSuccess = RSAExample.EncryptAndDecrypt();

@@ -3,7 +3,7 @@ using System.Text;
 
 namespace SecureSoftwareExercises.CryptoExercises;
 
-public class HashingExample
+public abstract class HashingExample
 {
     public static string GenerateSHA512Hash(string input)
     {

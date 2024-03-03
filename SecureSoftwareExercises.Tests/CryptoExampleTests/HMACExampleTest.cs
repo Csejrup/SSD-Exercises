@@ -10,7 +10,7 @@ public class HMACExampleTests
     public void GenerateHMACSHA256_ShouldReturnByteArray()
     {
         // Arrange
-        const string message = "Hello, World!";
+        const string message = "Hello, EASV!";
         var key = CRNGExample.GenerateRandomNumber(32); 
 
         // Act

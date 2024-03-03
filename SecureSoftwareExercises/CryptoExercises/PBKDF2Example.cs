@@ -2,7 +2,7 @@ using System.Security.Cryptography;
 
 namespace SecureSoftwareExercises.CryptoExercises;
 
-public class PBKDF2Example
+public abstract class PBKDF2Example
 {
     public static byte[] DeriveKey(string password, byte[] salt, int iterations, int numberOfBytes)
     {
